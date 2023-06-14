@@ -1,6 +1,6 @@
-# Docker Compose Project
+# Docker Project : Expense Management System
 
-This project uses Docker Compose to set up multiple services, including an Nginx web server and MySQL database.
+This project uses Docker to set up multiple services, including an Nginx web server and MySQL database.
 
 ## Prerequisites
 
